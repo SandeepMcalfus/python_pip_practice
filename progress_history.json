@@ -1,0 +1,80 @@
+[
+  {
+    "timestamp": "2026-10-07T10:25",
+    "passed": 0,
+    "total": 33,
+    "percent": 0,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_vowels": "not started",
+          "fizzbuzz": "not started",
+          "grade": "not started",
+          "is_palindrome": "not started",
+          "reverse_words": "not started"
+        }
+      },
+      "m02_data_structures": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "common_elements": "not started",
+          "flatten": "not started",
+          "group_by_length": "not started",
+          "merge_dicts": "not started",
+          "remove_duplicates": "not started",
+          "word_frequency": "not started"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "build_profile": "not started",
+          "count_calls": "not started",
+          "parse_int_list": "not started",
+          "safe_divide": "not started",
+          "sort_by_age": "not started",
+          "total": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  }
+]
