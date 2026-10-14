@@ -1,14 +1,14 @@
 # Python Practice Modules — with Progress Tracking
 
-6 modules, 33 exercises. No installs needed (only Python 3.8+ standard library).
+6 modules, 168 exercises. No installs needed (only Python 3.8+ standard library).
 
 | Module | Topics |
 |---|---|
-| 1. Basics | strings, loops, conditions |
-| 2. Data Structures | lists, dicts, sets, comprehensions |
-| 3. Functions & Errors | *args/**kwargs, lambdas, try/except, decorators |
-| 4. OOP | classes, inheritance, properties, dunder methods |
-| 5. Files & Data | text files, CSV, JSON |
+| 1. Basics | numbers & arithmetic, type conversion, strings, conditions, loops |
+| 2. Data Structures | lists, tuples, dicts, sets, comprehensions, stacks & queues, collections (Counter, defaultdict, deque, namedtuple) |
+| 3. Functions & Errors | defaults, *args/**kwargs, lambdas, closures, recursion, exceptions, decorators, generators |
+| 4. OOP | classes, properties, class/static methods, inheritance, ABCs & mixins, dunder methods, iterators, context managers, dataclasses, composition |
+| 5. Files & Data | text files, paths & folders (pathlib), parsing config/log files, CSV, JSON, JSON Lines |
 | 6. Algorithms | searching, stacks, hashing, efficiency |
 
 ## How to use

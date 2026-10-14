@@ -76,5 +76,1549 @@
         }
       }
     }
+  },
+  {
+    "timestamp": "2026-10-07T10:27",
+    "passed": 0,
+    "total": 33,
+    "percent": 0,
+    "note": "Baseline - starting practice",
+    "modules": {
+      "m01_basics": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_vowels": "not started",
+          "fizzbuzz": "not started",
+          "grade": "not started",
+          "is_palindrome": "not started",
+          "reverse_words": "not started"
+        }
+      },
+      "m02_data_structures": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "common_elements": "not started",
+          "flatten": "not started",
+          "group_by_length": "not started",
+          "merge_dicts": "not started",
+          "remove_duplicates": "not started",
+          "word_frequency": "not started"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "build_profile": "not started",
+          "count_calls": "not started",
+          "parse_int_list": "not started",
+          "safe_divide": "not started",
+          "sort_by_age": "not started",
+          "total": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-07T10:49",
+    "passed": 1,
+    "total": 33,
+    "percent": 3,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 5,
+        "passed": 1,
+        "results": {
+          "count_vowels": "not started",
+          "fizzbuzz": "not started",
+          "grade": "not started",
+          "is_palindrome": "not started",
+          "reverse_words": "passed"
+        }
+      },
+      "m02_data_structures": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "common_elements": "not started",
+          "flatten": "not started",
+          "group_by_length": "not started",
+          "merge_dicts": "not started",
+          "remove_duplicates": "not started",
+          "word_frequency": "not started"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "build_profile": "not started",
+          "count_calls": "not started",
+          "parse_int_list": "not started",
+          "safe_divide": "not started",
+          "sort_by_age": "not started",
+          "total": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-07T10:50",
+    "passed": 1,
+    "total": 33,
+    "percent": 3,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 5,
+        "passed": 1,
+        "results": {
+          "count_vowels": "not started",
+          "fizzbuzz": "not started",
+          "grade": "not started",
+          "is_palindrome": "not started",
+          "reverse_words": "passed"
+        }
+      },
+      "m02_data_structures": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "common_elements": "not started",
+          "flatten": "not started",
+          "group_by_length": "not started",
+          "merge_dicts": "not started",
+          "remove_duplicates": "not started",
+          "word_frequency": "not started"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "build_profile": "not started",
+          "count_calls": "not started",
+          "parse_int_list": "not started",
+          "safe_divide": "not started",
+          "sort_by_age": "not started",
+          "total": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-07T10:51",
+    "passed": 0,
+    "total": 33,
+    "percent": 0,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_vowels": "not started",
+          "fizzbuzz": "not started",
+          "grade": "not started",
+          "is_palindrome": "not started",
+          "reverse_words": "AttributeError: 'str' object has no attribute 'splt'"
+        }
+      },
+      "m02_data_structures": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "common_elements": "not started",
+          "flatten": "not started",
+          "group_by_length": "not started",
+          "merge_dicts": "not started",
+          "remove_duplicates": "not started",
+          "word_frequency": "not started"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "build_profile": "not started",
+          "count_calls": "not started",
+          "parse_int_list": "not started",
+          "safe_divide": "not started",
+          "sort_by_age": "not started",
+          "total": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-07T10:51",
+    "passed": 1,
+    "total": 33,
+    "percent": 3,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 5,
+        "passed": 1,
+        "results": {
+          "count_vowels": "not started",
+          "fizzbuzz": "not started",
+          "grade": "not started",
+          "is_palindrome": "not started",
+          "reverse_words": "passed"
+        }
+      },
+      "m02_data_structures": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "common_elements": "not started",
+          "flatten": "not started",
+          "group_by_length": "not started",
+          "merge_dicts": "not started",
+          "remove_duplicates": "not started",
+          "word_frequency": "not started"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "build_profile": "not started",
+          "count_calls": "not started",
+          "parse_int_list": "not started",
+          "safe_divide": "not started",
+          "sort_by_age": "not started",
+          "total": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-07T11:05",
+    "passed": 0,
+    "total": 33,
+    "percent": 0,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_vowels": "not started",
+          "fizzbuzz": "not started",
+          "grade": "not started",
+          "is_palindrome": "AssertionError: None is not true",
+          "reverse_words": "NameError: name 'word' is not defined"
+        }
+      },
+      "m02_data_structures": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "common_elements": "not started",
+          "flatten": "not started",
+          "group_by_length": "not started",
+          "merge_dicts": "not started",
+          "remove_duplicates": "not started",
+          "word_frequency": "not started"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "build_profile": "not started",
+          "count_calls": "not started",
+          "parse_int_list": "not started",
+          "safe_divide": "not started",
+          "sort_by_age": "not started",
+          "total": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-07T11:05",
+    "passed": 1,
+    "total": 33,
+    "percent": 3,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 5,
+        "passed": 1,
+        "results": {
+          "count_vowels": "not started",
+          "fizzbuzz": "not started",
+          "grade": "not started",
+          "is_palindrome": "AssertionError: None is not true",
+          "reverse_words": "passed"
+        }
+      },
+      "m02_data_structures": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "common_elements": "not started",
+          "flatten": "not started",
+          "group_by_length": "not started",
+          "merge_dicts": "not started",
+          "remove_duplicates": "not started",
+          "word_frequency": "not started"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "build_profile": "not started",
+          "count_calls": "not started",
+          "parse_int_list": "not started",
+          "safe_divide": "not started",
+          "sort_by_age": "not started",
+          "total": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-07T11:14",
+    "passed": 31,
+    "total": 59,
+    "percent": 53,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 31,
+        "passed": 31,
+        "results": {
+          "bmi_category": "passed",
+          "caesar_cipher": "passed",
+          "capitalize_words": "passed",
+          "celsius_to_fahrenheit": "passed",
+          "collatz_steps": "passed",
+          "compress": "passed",
+          "count_vowels": "passed",
+          "factorial": "passed",
+          "fibonacci": "passed",
+          "fizzbuzz": "passed",
+          "format_price": "passed",
+          "gcd": "passed",
+          "grade": "passed",
+          "initials": "passed",
+          "is_anagram": "passed",
+          "is_even": "passed",
+          "is_leap_year": "passed",
+          "is_palindrome": "passed",
+          "is_prime": "passed",
+          "longest_word": "passed",
+          "mask_card": "passed",
+          "max_of_three": "passed",
+          "multiplication_table": "passed",
+          "normalize_spaces": "passed",
+          "reverse_number": "passed",
+          "reverse_words": "passed",
+          "right_triangle": "passed",
+          "split_minutes": "passed",
+          "sum_of_digits": "passed",
+          "to_number": "passed",
+          "triangle_type": "passed"
+        }
+      },
+      "m02_data_structures": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "common_elements": "not started",
+          "flatten": "not started",
+          "group_by_length": "not started",
+          "merge_dicts": "not started",
+          "remove_duplicates": "not started",
+          "word_frequency": "not started"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "build_profile": "not started",
+          "count_calls": "not started",
+          "parse_int_list": "not started",
+          "safe_divide": "not started",
+          "sort_by_age": "not started",
+          "total": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-07T11:23",
+    "passed": 31,
+    "total": 59,
+    "percent": 53,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 31,
+        "passed": 31,
+        "results": {
+          "bmi_category": "passed",
+          "caesar_cipher": "passed",
+          "capitalize_words": "passed",
+          "celsius_to_fahrenheit": "passed",
+          "collatz_steps": "passed",
+          "compress": "passed",
+          "count_vowels": "passed",
+          "factorial": "passed",
+          "fibonacci": "passed",
+          "fizzbuzz": "passed",
+          "format_price": "passed",
+          "gcd": "passed",
+          "grade": "passed",
+          "initials": "passed",
+          "is_anagram": "passed",
+          "is_even": "passed",
+          "is_leap_year": "passed",
+          "is_palindrome": "passed",
+          "is_prime": "passed",
+          "longest_word": "passed",
+          "mask_card": "passed",
+          "max_of_three": "passed",
+          "multiplication_table": "passed",
+          "normalize_spaces": "passed",
+          "reverse_number": "passed",
+          "reverse_words": "passed",
+          "right_triangle": "passed",
+          "split_minutes": "passed",
+          "sum_of_digits": "passed",
+          "to_number": "passed",
+          "triangle_type": "passed"
+        }
+      },
+      "m02_data_structures": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "common_elements": "not started",
+          "flatten": "not started",
+          "group_by_length": "not started",
+          "merge_dicts": "not started",
+          "remove_duplicates": "not started",
+          "word_frequency": "not started"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "build_profile": "not started",
+          "count_calls": "not started",
+          "parse_int_list": "not started",
+          "safe_divide": "not started",
+          "sort_by_age": "not started",
+          "total": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-14T13:54",
+    "passed": 31,
+    "total": 90,
+    "percent": 34,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 31,
+        "passed": 31,
+        "results": {
+          "bmi_category": "passed",
+          "caesar_cipher": "passed",
+          "capitalize_words": "passed",
+          "celsius_to_fahrenheit": "passed",
+          "collatz_steps": "passed",
+          "compress": "passed",
+          "count_vowels": "passed",
+          "factorial": "passed",
+          "fibonacci": "passed",
+          "fizzbuzz": "passed",
+          "format_price": "passed",
+          "gcd": "passed",
+          "grade": "passed",
+          "initials": "passed",
+          "is_anagram": "passed",
+          "is_even": "passed",
+          "is_leap_year": "passed",
+          "is_palindrome": "passed",
+          "is_prime": "passed",
+          "longest_word": "passed",
+          "mask_card": "passed",
+          "max_of_three": "passed",
+          "multiplication_table": "passed",
+          "normalize_spaces": "passed",
+          "reverse_number": "passed",
+          "reverse_words": "passed",
+          "right_triangle": "passed",
+          "split_minutes": "passed",
+          "sum_of_digits": "passed",
+          "to_number": "passed",
+          "triangle_type": "passed"
+        }
+      },
+      "m02_data_structures": {
+        "total": 37,
+        "passed": 0,
+        "results": {
+          "average_scores": "not started",
+          "chunk": "not started",
+          "common_elements": "not started",
+          "count_coordinates": "not started",
+          "dict_from_lists": "not started",
+          "filter_by_value": "not started",
+          "find_all_indexes": "not started",
+          "first_unique_char": "not started",
+          "flatten": "not started",
+          "group_anagrams": "not started",
+          "group_by_length": "not started",
+          "has_duplicates": "not started",
+          "hot_potato": "not started",
+          "invert_dict": "not started",
+          "is_balanced": "not started",
+          "last_n_items": "not started",
+          "make_point": "not started",
+          "merge_dicts": "not started",
+          "min_max": "not started",
+          "missing_numbers": "not started",
+          "move_zeros_to_end": "not started",
+          "only_in_one": "not started",
+          "pairs_that_sum": "not started",
+          "remove_duplicates": "not started",
+          "rotate_list": "not started",
+          "running_total": "not started",
+          "safe_get": "not started",
+          "second_largest": "not started",
+          "sort_by_second": "not started",
+          "sort_dict_by_value": "not started",
+          "squares_of_evens": "not started",
+          "top_n_words": "not started",
+          "transpose": "not started",
+          "unique_letters": "not started",
+          "unzip_pairs": "not started",
+          "word_frequency": "not started",
+          "word_lengths": "not started"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "build_profile": "not started",
+          "count_calls": "not started",
+          "parse_int_list": "not started",
+          "safe_divide": "not started",
+          "sort_by_age": "not started",
+          "total": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-14T13:56",
+    "passed": 68,
+    "total": 90,
+    "percent": 76,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 31,
+        "passed": 31,
+        "results": {
+          "bmi_category": "passed",
+          "caesar_cipher": "passed",
+          "capitalize_words": "passed",
+          "celsius_to_fahrenheit": "passed",
+          "collatz_steps": "passed",
+          "compress": "passed",
+          "count_vowels": "passed",
+          "factorial": "passed",
+          "fibonacci": "passed",
+          "fizzbuzz": "passed",
+          "format_price": "passed",
+          "gcd": "passed",
+          "grade": "passed",
+          "initials": "passed",
+          "is_anagram": "passed",
+          "is_even": "passed",
+          "is_leap_year": "passed",
+          "is_palindrome": "passed",
+          "is_prime": "passed",
+          "longest_word": "passed",
+          "mask_card": "passed",
+          "max_of_three": "passed",
+          "multiplication_table": "passed",
+          "normalize_spaces": "passed",
+          "reverse_number": "passed",
+          "reverse_words": "passed",
+          "right_triangle": "passed",
+          "split_minutes": "passed",
+          "sum_of_digits": "passed",
+          "to_number": "passed",
+          "triangle_type": "passed"
+        }
+      },
+      "m02_data_structures": {
+        "total": 37,
+        "passed": 37,
+        "results": {
+          "average_scores": "passed",
+          "chunk": "passed",
+          "common_elements": "passed",
+          "count_coordinates": "passed",
+          "dict_from_lists": "passed",
+          "filter_by_value": "passed",
+          "find_all_indexes": "passed",
+          "first_unique_char": "passed",
+          "flatten": "passed",
+          "group_anagrams": "passed",
+          "group_by_length": "passed",
+          "has_duplicates": "passed",
+          "hot_potato": "passed",
+          "invert_dict": "passed",
+          "is_balanced": "passed",
+          "last_n_items": "passed",
+          "make_point": "passed",
+          "merge_dicts": "passed",
+          "min_max": "passed",
+          "missing_numbers": "passed",
+          "move_zeros_to_end": "passed",
+          "only_in_one": "passed",
+          "pairs_that_sum": "passed",
+          "remove_duplicates": "passed",
+          "rotate_list": "passed",
+          "running_total": "passed",
+          "safe_get": "passed",
+          "second_largest": "passed",
+          "sort_by_second": "passed",
+          "sort_dict_by_value": "passed",
+          "squares_of_evens": "passed",
+          "top_n_words": "passed",
+          "transpose": "passed",
+          "unique_letters": "passed",
+          "unzip_pairs": "passed",
+          "word_frequency": "passed",
+          "word_lengths": "passed"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "build_profile": "not started",
+          "count_calls": "not started",
+          "parse_int_list": "not started",
+          "safe_divide": "not started",
+          "sort_by_age": "not started",
+          "total": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-14T13:58",
+    "passed": 68,
+    "total": 120,
+    "percent": 57,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 31,
+        "passed": 31,
+        "results": {
+          "bmi_category": "passed",
+          "caesar_cipher": "passed",
+          "capitalize_words": "passed",
+          "celsius_to_fahrenheit": "passed",
+          "collatz_steps": "passed",
+          "compress": "passed",
+          "count_vowels": "passed",
+          "factorial": "passed",
+          "fibonacci": "passed",
+          "fizzbuzz": "passed",
+          "format_price": "passed",
+          "gcd": "passed",
+          "grade": "passed",
+          "initials": "passed",
+          "is_anagram": "passed",
+          "is_even": "passed",
+          "is_leap_year": "passed",
+          "is_palindrome": "passed",
+          "is_prime": "passed",
+          "longest_word": "passed",
+          "mask_card": "passed",
+          "max_of_three": "passed",
+          "multiplication_table": "passed",
+          "normalize_spaces": "passed",
+          "reverse_number": "passed",
+          "reverse_words": "passed",
+          "right_triangle": "passed",
+          "split_minutes": "passed",
+          "sum_of_digits": "passed",
+          "to_number": "passed",
+          "triangle_type": "passed"
+        }
+      },
+      "m02_data_structures": {
+        "total": 37,
+        "passed": 37,
+        "results": {
+          "average_scores": "passed",
+          "chunk": "passed",
+          "common_elements": "passed",
+          "count_coordinates": "passed",
+          "dict_from_lists": "passed",
+          "filter_by_value": "passed",
+          "find_all_indexes": "passed",
+          "first_unique_char": "passed",
+          "flatten": "passed",
+          "group_anagrams": "passed",
+          "group_by_length": "passed",
+          "has_duplicates": "passed",
+          "hot_potato": "passed",
+          "invert_dict": "passed",
+          "is_balanced": "passed",
+          "last_n_items": "passed",
+          "make_point": "passed",
+          "merge_dicts": "passed",
+          "min_max": "passed",
+          "missing_numbers": "passed",
+          "move_zeros_to_end": "passed",
+          "only_in_one": "passed",
+          "pairs_that_sum": "passed",
+          "remove_duplicates": "passed",
+          "rotate_list": "passed",
+          "running_total": "passed",
+          "safe_get": "passed",
+          "second_largest": "passed",
+          "sort_by_second": "passed",
+          "sort_dict_by_value": "passed",
+          "squares_of_evens": "passed",
+          "top_n_words": "passed",
+          "transpose": "passed",
+          "unique_letters": "passed",
+          "unzip_pairs": "passed",
+          "word_frequency": "passed",
+          "word_lengths": "passed"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 36,
+        "passed": 0,
+        "results": {
+          "append_item": "not started",
+          "apply_n_times": "not started",
+          "average": "not started",
+          "build_profile": "not started",
+          "compose": "not started",
+          "count_calls": "not started",
+          "countdown": "not started",
+          "describe_person": "not started",
+          "evens_up_to": "not started",
+          "flatten_deep": "not started",
+          "format_call": "not started",
+          "greet": "not started",
+          "longest": "not started",
+          "make_counter": "not started",
+          "make_multiplier": "not started",
+          "make_tag": "not started",
+          "memoize": "not started",
+          "merge_settings": "not started",
+          "only_positive": "not started",
+          "parse_int_list": "not started",
+          "pipeline": "not started",
+          "power": "not started",
+          "recursive_sum": "not started",
+          "repeat": "not started",
+          "retry": "not started",
+          "run_with_cleanup": "not started",
+          "safe_divide": "not started",
+          "safe_int": "not started",
+          "sort_by_age": "not started",
+          "sort_by_last_char": "not started",
+          "to_binary": "not started",
+          "total": "not started",
+          "try_all": "not started",
+          "uppercase": "not started",
+          "validate_age": "not started",
+          "withdraw": "not started"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-14T14:02",
+    "passed": 104,
+    "total": 120,
+    "percent": 87,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 31,
+        "passed": 31,
+        "results": {
+          "bmi_category": "passed",
+          "caesar_cipher": "passed",
+          "capitalize_words": "passed",
+          "celsius_to_fahrenheit": "passed",
+          "collatz_steps": "passed",
+          "compress": "passed",
+          "count_vowels": "passed",
+          "factorial": "passed",
+          "fibonacci": "passed",
+          "fizzbuzz": "passed",
+          "format_price": "passed",
+          "gcd": "passed",
+          "grade": "passed",
+          "initials": "passed",
+          "is_anagram": "passed",
+          "is_even": "passed",
+          "is_leap_year": "passed",
+          "is_palindrome": "passed",
+          "is_prime": "passed",
+          "longest_word": "passed",
+          "mask_card": "passed",
+          "max_of_three": "passed",
+          "multiplication_table": "passed",
+          "normalize_spaces": "passed",
+          "reverse_number": "passed",
+          "reverse_words": "passed",
+          "right_triangle": "passed",
+          "split_minutes": "passed",
+          "sum_of_digits": "passed",
+          "to_number": "passed",
+          "triangle_type": "passed"
+        }
+      },
+      "m02_data_structures": {
+        "total": 37,
+        "passed": 37,
+        "results": {
+          "average_scores": "passed",
+          "chunk": "passed",
+          "common_elements": "passed",
+          "count_coordinates": "passed",
+          "dict_from_lists": "passed",
+          "filter_by_value": "passed",
+          "find_all_indexes": "passed",
+          "first_unique_char": "passed",
+          "flatten": "passed",
+          "group_anagrams": "passed",
+          "group_by_length": "passed",
+          "has_duplicates": "passed",
+          "hot_potato": "passed",
+          "invert_dict": "passed",
+          "is_balanced": "passed",
+          "last_n_items": "passed",
+          "make_point": "passed",
+          "merge_dicts": "passed",
+          "min_max": "passed",
+          "missing_numbers": "passed",
+          "move_zeros_to_end": "passed",
+          "only_in_one": "passed",
+          "pairs_that_sum": "passed",
+          "remove_duplicates": "passed",
+          "rotate_list": "passed",
+          "running_total": "passed",
+          "safe_get": "passed",
+          "second_largest": "passed",
+          "sort_by_second": "passed",
+          "sort_dict_by_value": "passed",
+          "squares_of_evens": "passed",
+          "top_n_words": "passed",
+          "transpose": "passed",
+          "unique_letters": "passed",
+          "unzip_pairs": "passed",
+          "word_frequency": "passed",
+          "word_lengths": "passed"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 36,
+        "passed": 36,
+        "results": {
+          "append_item": "passed",
+          "apply_n_times": "passed",
+          "average": "passed",
+          "build_profile": "passed",
+          "compose": "passed",
+          "count_calls": "passed",
+          "countdown": "passed",
+          "describe_person": "passed",
+          "evens_up_to": "passed",
+          "flatten_deep": "passed",
+          "format_call": "passed",
+          "greet": "passed",
+          "longest": "passed",
+          "make_counter": "passed",
+          "make_multiplier": "passed",
+          "make_tag": "passed",
+          "memoize": "passed",
+          "merge_settings": "passed",
+          "only_positive": "passed",
+          "parse_int_list": "passed",
+          "pipeline": "passed",
+          "power": "passed",
+          "recursive_sum": "passed",
+          "repeat": "passed",
+          "retry": "passed",
+          "run_with_cleanup": "passed",
+          "safe_divide": "passed",
+          "safe_int": "passed",
+          "sort_by_age": "passed",
+          "sort_by_last_char": "passed",
+          "to_binary": "passed",
+          "total": "passed",
+          "try_all": "passed",
+          "uppercase": "passed",
+          "validate_age": "passed",
+          "withdraw": "passed"
+        }
+      },
+      "m04_oop": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-14T14:07",
+    "passed": 104,
+    "total": 145,
+    "percent": 72,
+    "note": "",
+    "modules": {
+      "m01_basics": {
+        "total": 31,
+        "passed": 31,
+        "results": {
+          "bmi_category": "passed",
+          "caesar_cipher": "passed",
+          "capitalize_words": "passed",
+          "celsius_to_fahrenheit": "passed",
+          "collatz_steps": "passed",
+          "compress": "passed",
+          "count_vowels": "passed",
+          "factorial": "passed",
+          "fibonacci": "passed",
+          "fizzbuzz": "passed",
+          "format_price": "passed",
+          "gcd": "passed",
+          "grade": "passed",
+          "initials": "passed",
+          "is_anagram": "passed",
+          "is_even": "passed",
+          "is_leap_year": "passed",
+          "is_palindrome": "passed",
+          "is_prime": "passed",
+          "longest_word": "passed",
+          "mask_card": "passed",
+          "max_of_three": "passed",
+          "multiplication_table": "passed",
+          "normalize_spaces": "passed",
+          "reverse_number": "passed",
+          "reverse_words": "passed",
+          "right_triangle": "passed",
+          "split_minutes": "passed",
+          "sum_of_digits": "passed",
+          "to_number": "passed",
+          "triangle_type": "passed"
+        }
+      },
+      "m02_data_structures": {
+        "total": 37,
+        "passed": 37,
+        "results": {
+          "average_scores": "passed",
+          "chunk": "passed",
+          "common_elements": "passed",
+          "count_coordinates": "passed",
+          "dict_from_lists": "passed",
+          "filter_by_value": "passed",
+          "find_all_indexes": "passed",
+          "first_unique_char": "passed",
+          "flatten": "passed",
+          "group_anagrams": "passed",
+          "group_by_length": "passed",
+          "has_duplicates": "passed",
+          "hot_potato": "passed",
+          "invert_dict": "passed",
+          "is_balanced": "passed",
+          "last_n_items": "passed",
+          "make_point": "passed",
+          "merge_dicts": "passed",
+          "min_max": "passed",
+          "missing_numbers": "passed",
+          "move_zeros_to_end": "passed",
+          "only_in_one": "passed",
+          "pairs_that_sum": "passed",
+          "remove_duplicates": "passed",
+          "rotate_list": "passed",
+          "running_total": "passed",
+          "safe_get": "passed",
+          "second_largest": "passed",
+          "sort_by_second": "passed",
+          "sort_dict_by_value": "passed",
+          "squares_of_evens": "passed",
+          "top_n_words": "passed",
+          "transpose": "passed",
+          "unique_letters": "passed",
+          "unzip_pairs": "passed",
+          "word_frequency": "passed",
+          "word_lengths": "passed"
+        }
+      },
+      "m03_functions_errors": {
+        "total": 36,
+        "passed": 36,
+        "results": {
+          "append_item": "passed",
+          "apply_n_times": "passed",
+          "average": "passed",
+          "build_profile": "passed",
+          "compose": "passed",
+          "count_calls": "passed",
+          "countdown": "passed",
+          "describe_person": "passed",
+          "evens_up_to": "passed",
+          "flatten_deep": "passed",
+          "format_call": "passed",
+          "greet": "passed",
+          "longest": "passed",
+          "make_counter": "passed",
+          "make_multiplier": "passed",
+          "make_tag": "passed",
+          "memoize": "passed",
+          "merge_settings": "passed",
+          "only_positive": "passed",
+          "parse_int_list": "passed",
+          "pipeline": "passed",
+          "power": "passed",
+          "recursive_sum": "passed",
+          "repeat": "passed",
+          "retry": "passed",
+          "run_with_cleanup": "passed",
+          "safe_divide": "passed",
+          "safe_int": "passed",
+          "sort_by_age": "passed",
+          "sort_by_last_char": "passed",
+          "to_binary": "passed",
+          "total": "passed",
+          "try_all": "passed",
+          "uppercase": "passed",
+          "validate_age": "passed",
+          "withdraw": "passed"
+        }
+      },
+      "m04_oop": {
+        "total": 30,
+        "passed": 0,
+        "results": {
+          "animals": "not started",
+          "bank_account_basic": "not started",
+          "bank_account_errors": "not started",
+          "circle": "not started",
+          "click_counter": "not started",
+          "count_up": "not started",
+          "employee_class_and_static_methods": "AttributeError: type object 'Employee' has no attribute 'from_string'",
+          "employee_class_attributes": "AttributeError: type object 'Employee' has no attribute 'count'",
+          "fraction_arithmetic": "not started",
+          "fraction_basics": "not started",
+          "inventory_item_dataclass": "not started",
+          "library_books_by": "not started",
+          "library_checkout": "not started",
+          "money": "not started",
+          "payment_methods": "not started",
+          "person": "not started",
+          "playlist": "not started",
+          "product_mixin": "not started",
+          "rectangle_eq_and_sort": "not started",
+          "rectangle_properties": "not started",
+          "savings_account": "not started",
+          "shapes": "not started",
+          "shopping_cart": "not started",
+          "stack": "not started",
+          "suppress": "not started",
+          "temperature_classmethod": "AttributeError: type object 'Temperature' has no attribute 'from_fahrenheit'",
+          "temperature_properties": "not started",
+          "user": "not started",
+          "vector_arithmetic": "not started",
+          "vector_repr_abs_bool": "not started"
+        }
+      },
+      "m05_files_data": {
+        "total": 5,
+        "passed": 0,
+        "results": {
+          "count_lines": "not started",
+          "csv_column_average": "not started",
+          "json_roundtrip": "not started",
+          "summarize_sales": "not started",
+          "write_report": "not started"
+        }
+      },
+      "m06_algorithms": {
+        "total": 6,
+        "passed": 0,
+        "results": {
+          "binary_search": "not started",
+          "chunk": "not started",
+          "fibonacci": "not started",
+          "is_balanced": "not started",
+          "most_frequent": "not started",
+          "two_sum": "not started"
+        }
+      }
+    }
   }
 ]
